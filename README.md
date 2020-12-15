@@ -4,7 +4,7 @@ The assignment requested the developer to create passwordGenerator which fullfil
 
 - A series of prompts and alerts will pop up which ask the subject if they need a list such as characters, numbers, uppercase and lowercase password.
 
-
+https://github.com/carefree2706/passwordGenerator/blob/main/generateLower.png
 
 The concat() method is used to join two or more strings.
 
