@@ -4,34 +4,13 @@ The assignment requested the developer to create passwordGenerator which fullfil
 
 - A series of prompts and alerts will pop up which ask the subject if they need a list such as characters, numbers, uppercase and lowercase password.
 
-https://github.com/carefree2706/passwordGenerator/blob/main/generateLower.png
+- Png attached to the passwordGenerator file showcase what are the prompts will appear and require from the users
 
-The concat() method is used to join two or more strings.
+- The assignment required to run live URL, inspect via Chrome DevTools and no errors and successful deployed.
 
 
-### Technical Acceptance Criteria: 40%
 
-* Satisfies all of the above acceptance criteria plus the following:
 
-  * The homework should not produce any errors in the console when you inspect it using Chrome DevTools.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the homework instructions.
 
 ### Repository Quality: 13%
 
