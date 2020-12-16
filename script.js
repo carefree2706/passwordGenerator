@@ -38,10 +38,10 @@ function generatePassword() {
 
   if (!passwordLength) {
     alert("This needs a value");
-    return //stop the function//
+    return "" //stop the function//
   } else if (passwordLength < 8 || passwordLength > 128) {
     alert("please enter password length should be between 8-128")
-    return
+    return ""
   }
 
   confirmNumber = confirm("Would you like to contain numbers?");
